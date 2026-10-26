@@ -1,0 +1,6 @@
+Ruang Uji
+Release: 1.0.0
+Baseline created: 2026-10-26
+Test library schema: 1
+Progress backup schema: 1
+Includes: TKA Bahasa Inggris — TO 03 (20 questions, 17 gradable)

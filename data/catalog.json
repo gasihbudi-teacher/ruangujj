@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "tests": [
+    {
+      "id": "tka-eng-to03-elephant-study-labuan-bajo",
+      "path": "data/tests/tka-eng-to03.json",
+      "title": "TKA Bahasa Inggris — TO 03",
+      "subtitle": "Elephant · Study Session · Labuan Bajo",
+      "subject": "Bahasa Inggris Wajib",
+      "exam": "TKA",
+      "topics": ["Narrative", "Procedure", "Description", "Recount"],
+      "questionCount": 20,
+      "gradedCount": 17,
+      "year": null,
+      "officialDurationMinutes": null,
+      "verification": "Kunci independen; 3 soal belum terselesaikan",
+      "badge": "LATIHAN BARU",
+      "available": true
+    }
+  ]
+}
